@@ -19,9 +19,9 @@ Source: https://www.kaggle.com/ronitf/heart-disease-uci
 source: 
 
 Algorithms Used:
-Decision Tree
-Random Forest
-KNN
-Naive Bayes
-Logistic Regression
-Support Vector Machine
+Decision Tree, 
+Random Forest, 
+KNN, 
+Naive Bayes, 
+Logistic Regression, 
+Support Vector Machine.
